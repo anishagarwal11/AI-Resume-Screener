@@ -1,0 +1,26 @@
+iOS Developer (3–4 Years Experience)
+
+We are hiring an iOS Developer with strong experience building production-scale mobile applications.
+
+Responsibilities:
+- Develop and maintain iOS applications using Swift and SwiftUI
+- Work extensively with UIKit, Auto Layout, Collection Views and Table Views
+- Implement MVVM and MVC architecture patterns
+- Integrate REST APIs and GraphQL services
+- Handle multithreading using GCD, Operations and Dispatch Groups
+- Improve performance, memory management and app stability
+- Collaborate with Design, Backend and QA teams
+- Write unit tests and UI tests using XCTest
+
+Requirements:
+- 3+ years of professional iOS development experience
+- Strong proficiency in Swift, SwiftUI and UIKit
+- Experience with Xcode and iOS SDK
+- Familiarity with Core Data and local persistence
+- Experience with Git version control
+- Bachelor’s degree in Computer Science or Engineering
+
+Good to Have:
+- Experience with CI/CD pipelines
+- Monitoring tools like Datadog or Crashlytics
+- Experience working in Agile teams

@@ -1,0 +1,7 @@
+skill_match_count,keyword_overlap_ratio,years_of_experience,education_present,resume_length,label
+5,0.6,5,1,500,1
+4,0.5,4,1,450,1
+3,0.4,3,1,400,1
+1,0.1,1,0,200,0
+0,0.0,0,0,150,0
+2,0.2,1,0,250,0
