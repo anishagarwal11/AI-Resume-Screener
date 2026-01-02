@@ -4,4 +4,4 @@ __pycache__/
 .env
 *.pkl
 data/raw/resume.pdf
-.DS_Store
+*.DS_Store
